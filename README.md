@@ -8,9 +8,10 @@ introduction and indentation:
     a) if   b) if-else  c) if-elif-else   d) if-else if
 
    a) if 
-Syntax:               Note: Maintain indentation(Space) other wise it will get error
+Syntax:               
 if condition:
    Statement1
    Statement2
    Statement3
    Statement4
+Note: Maintain indentation(Space) other wise it will get error
