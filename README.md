@@ -9,9 +9,9 @@ introduction and indentation:
 
    a) if 
 Syntax:               
-if condition:
-   Statement1
-   Statement2
-   Statement3
-   Statement4
+if condition:/n
+   Statement1/n
+   Statement2/n
+   Statement3/n
+   Statement4/n
 Note: Maintain indentation(Space) other wise it will get error
