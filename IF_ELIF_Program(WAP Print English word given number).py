@@ -1,26 +1,25 @@
 Number=int(input("Enter a Number from 0 to 9:"))
-num=10
-for Number in num:
- if Number == 0:
+
+if Number == 0:
   output='Zero'
- elif Number == 1:
+elif Number == 1:
   output='One'
- elif Number == 2:
+elif Number == 2:
   output='Two'
- elif Number == 3:
+elif Number == 3:
   output='Three'
- elif Number == 4:
+elif Number == 4:
   output='Four'
- elif Number == 5:
+elif Number == 5:
   output='Five'
- elif Number == 6:
+elif Number == 6:
   output='Six'
- elif Number == 7:
+elif Number == 7:
   output='Seven'
- elif Number == 8:
+elif Number == 8:
   output='Eight'
- elif Number == 9:
+elif Number == 9:
   output='Nine'
- else:
+else:
   output='Enter number from 0 to 9 only'
 print(Number,':',output)
